@@ -1,0 +1,24 @@
+{
+  "name": "apache-category-x-spdx",
+  "version": "1.0.0",
+  "description": "Apache Category X SPDX codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianMurphy/apache-category-x-spdx.git"
+  },
+  "keywords": [
+    "apache",
+    "license",
+    "spdx"
+  ],
+  "author": "Christian Murphy <christian.murphy.42@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChristianMurphy/apache-category-x-spdx/issues"
+  },
+  "homepage": "https://github.com/ChristianMurphy/apache-category-x-spdx#readme"
+}
