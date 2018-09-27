@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/apache-category-x-spdx.svg)](https://www.npmjs.com/package/apache-category-x-spdx)
 
-Apache Category X approved licenses in a machine readable format using [SPDX](https://spdx.org).
+Apache Category X banned licenses in a machine readable format using [SPDX](https://spdx.org).
 
 Adapted from <https://apache.org/legal/resolved.html#what-can-we-not-include-in-an-asf-project-category-x>
 
