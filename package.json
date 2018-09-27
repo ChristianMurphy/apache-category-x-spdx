@@ -1,6 +1,6 @@
 {
   "name": "apache-category-x-spdx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apache Category X SPDX codes",
   "main": "index.js",
   "scripts": {
